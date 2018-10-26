@@ -1,1 +1,1 @@
-# k2planets
+# K2 Planets
