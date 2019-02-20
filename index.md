@@ -7,4 +7,4 @@ alt="IMAGE ALT TEXT HERE" width="1920" border="10" /></a>
 ![](images/planet-graphic.png)
 ### Image credit: NASA/JPL-Caltech/R. Hurt (IPAC)
 
-## Read the papers [here](https://doi.org/10.3847/1538-3881/aaccde) and [here](https://arxiv.org/abs/1810.04074)
+## Read the papers [here](https://doi.org/10.3847/1538-3881/aaccde) and [here](http://iopscience.iop.org/article/10.3847/1538-3881/aae778/meta)
